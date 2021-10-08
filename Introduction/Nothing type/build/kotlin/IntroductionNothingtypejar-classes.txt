@@ -1,0 +1,1 @@
+C:\Users\nonii\AndroidStudioProjects\Kotlin Koans\Introduction\Nothing type\build\classes\java\main\TaskKt.class
